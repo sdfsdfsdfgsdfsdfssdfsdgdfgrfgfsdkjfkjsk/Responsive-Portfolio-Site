@@ -10,7 +10,7 @@ This portfolio website is created using HTML, CSS, and JavaScript. It showcases 
 - Smooth scrolling and navigation for a seamless user experience
 
 ## Live Demo
-[Live Demo](knowwhoisme.netlify.app)
+knowwhoisme.netlify.app
 
 ## Installation
 1. Clone this repository to your local machine:

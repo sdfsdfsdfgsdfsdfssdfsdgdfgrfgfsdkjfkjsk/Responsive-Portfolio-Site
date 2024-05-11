@@ -14,9 +14,11 @@ Hope it helps
 - Customizable content to showcase your unique skills and projects
 - Smooth scrolling and navigation for a seamless user experience
 
-## Live Demo (Dont take anything h)
+## Live Demo 
 knowwhoisme.netlify.app
 
 ## Installation
-1. Clone this repository to your local machine:
+1. Clone this repository to your local machine
+2. You know other thing (I hope so)
+3. I aint doing this thing in my life again Web dev is boring imo.
 

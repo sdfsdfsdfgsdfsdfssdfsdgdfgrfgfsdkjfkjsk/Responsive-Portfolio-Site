@@ -14,7 +14,7 @@ Hope it helps
 - Customizable content to showcase your unique skills and projects
 - Smooth scrolling and navigation for a seamless user experience
 
-## Live Demo 
+## Live Demo (Dont take anything seroiusly here)
 knowwhoisme.netlify.app
 
 ## Installation

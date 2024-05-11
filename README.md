@@ -1,7 +1,12 @@
 # Portfolio Website
+![Screenshot 2024-05-11 at 00-32-04 Whois](https://github.com/At0m-txt/Responsive-Portfolio/assets/153441206/6f2da8c5-e18a-46c5-ad9e-0b3c93fa7952)
+
 
 ## Overview
 This portfolio website is created using HTML, CSS, and JavaScript. It showcases your skills, projects, and experiences in a visually appealing and responsive manner.
+THis read me is Just AI generated readme file I ain't writing all of it.
+Hope it helps
+
 
 ## Features
 - Responsive design for optimal viewing on various devices
@@ -9,7 +14,7 @@ This portfolio website is created using HTML, CSS, and JavaScript. It showcases 
 - Customizable content to showcase your unique skills and projects
 - Smooth scrolling and navigation for a seamless user experience
 
-## Live Demo
+## Live Demo (Dont take anything h)
 knowwhoisme.netlify.app
 
 ## Installation

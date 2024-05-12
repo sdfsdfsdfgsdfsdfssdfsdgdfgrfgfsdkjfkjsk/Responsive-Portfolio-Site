@@ -9,6 +9,8 @@ Hope it helps
 
 
 ## Features
+-Message ppl sent in contact can also go in
+the mail 
 - Responsive design for optimal viewing on various devices
 - Sections for About Me, Projects, Skills, and Contact Information
 - Customizable content to showcase your unique skills and projects
